@@ -1,0 +1,11 @@
+{
+    "db_connection_url": "jdbc:h2:./hwdb",
+    "path_sql_script_folder": "./sql",
+    "file_name_init_db": "init_db.sql",
+    "file_name_populate_db": "populate_db.sql",
+    "file_name_find_longest_project": "find_longest_project.sql",
+    "file_name_find_max_projects_client": "find_max_projects_client.sql",
+    "file_name_find_max_salary_worker": "find_max_salary_worker.sql",
+    "file_name_find_youngest_oldest_workers": "find_youngest_oldest_workers.sql",
+    "file_name_print_project_prices": "print_project_prices.sql"
+}
